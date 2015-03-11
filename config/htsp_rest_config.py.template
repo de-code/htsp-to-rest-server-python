@@ -1,0 +1,10 @@
+config = {
+    'port': 9080,
+    'htsp.address': ['localhost', 9982],
+    'htsp.username': '',
+    'htsp.password': '',
+#    'logging.configuration': 'config/logging-file.conf',
+    'logging.configuration': 'config/logging-console.conf',
+    'logging.console': True,
+    'debug': False
+}
