@@ -1,3 +1,4 @@
+# example configuration file, copy it to htsp_rest_config.py and change to to match your environment.
 config = {
     'port': 9080,
     'htsp.address': ['localhost', 9982],
