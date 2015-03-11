@@ -12,15 +12,15 @@ Start / Stop
 
 Either use the provided scripts:
 
-`start-htsp-rest.server.sh
+`start-htsp-rest.server.sh`
 
 and
 
-`stop-htsp-rest.server.sh
+`stop-htsp-rest.server.sh`
 
 Or run it directly using python:
 
-`python htsp_rest_server.py
+`python htsp_rest_server.py`
 
 Clients
 =======
